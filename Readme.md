@@ -52,4 +52,8 @@ contains a total of 981 facial expressions. we use 10-fold Cross validation in t
 - Model：   Resnet18 ;     Test_acc：   94.040%   
 
 
+## Results
+- Detection of Multiple Face can be found [here](img_head_shots)
+- Emotion Dectection can be found [here](images/results)
+
 [For More REF](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch)
